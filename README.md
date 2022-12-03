@@ -4,4 +4,4 @@
 ## Also I ***DEPLOY*** my _First_ <sub>Webpage</sub> on <sup>*GitHubPages*</sup>
 [This is Link](https://iamserje.github.io/repo_workshop/) for my _Deploy_.
 ### I gess further it\`ll be ~~easier~~ *HARDER*.
-![Smile](./images/smiley-960_720.jpg "This is smiley")
+![Smile](./images/smiley-320_240.png "This is smiley")
