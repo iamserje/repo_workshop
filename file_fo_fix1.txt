@@ -1,1 +1,2 @@
 First file in branch fix1 22:46
+change ogigin to - git@github.com:iamserje/repo_workshop.git
